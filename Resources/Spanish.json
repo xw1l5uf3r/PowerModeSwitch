@@ -1,0 +1,18 @@
+{
+  "settingsItem": "Configuración",
+  "exitItem": "Salir",
+  "pmsTray": "Power Mode Switch",
+  "highPerformanceOverlayLabel": "Alto rendimiento",
+  "energySavingOverlayLabel": "Ahorro de energía",
+  "balancedOverlayLabel": "Equilibrado",
+  "langLabel": "Idioma",
+  "applyButton": "Aplicar",
+  "appPage": "Aplicación",
+  "sysPage": "Sistema",
+  "aboutPage": "Acerca de",
+  "autorunCheckBox": "Inicio automático",
+  "switchKey": "Tecla de cambio",
+  "mode1": "Modo 1",
+  "mode2": "Modo 2",
+  "powermode": "Modo de energía"
+}

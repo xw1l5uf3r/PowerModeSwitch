@@ -1,0 +1,18 @@
+{
+  "settingsItem": "Paramètres",
+  "exitItem": "Quitter",
+  "pmsTray": "Power Mode Switch",
+  "highPerformanceOverlayLabel": "Haute performance",
+  "energySavingOverlayLabel": "Économie d’énergie",
+  "balancedOverlayLabel": "Équilibré",
+  "langLabel": "Langue",
+  "applyButton": "Appliquer",
+  "appPage": "Application",
+  "sysPage": "Système",
+  "aboutPage": "À propos",
+  "autorunCheckBox": "Démarrage automatique",
+  "switchKey": "Touche de bascule",
+  "mode1": "Mode 1",
+  "mode2": "Mode 2",
+  "powermode": "Mode d’alimentation"
+}

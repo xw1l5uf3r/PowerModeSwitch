@@ -1,0 +1,18 @@
+{
+  "settingsItem": "Параметры",
+  "exitItem": "Выход",
+  "pmsTray": "Power Mode Switch",
+  "highPerformanceOverlayLabel": "Высокая производительность",
+  "energySavingOverlayLabel": "Экономия энергии",
+  "balancedOverlayLabel": "Сбалансированный",
+  "langLabel": "Язык",
+  "applyButton": "Принять",
+  "appPage": "Приложение",
+  "sysPage": "Система",
+  "aboutPage": "О программе",
+  "autorunCheckBox": "Автозапуск",
+  "switchKey": "Активация комбинацией",
+  "mode1": "Режим 1",
+  "mode2": "Режим 2",
+  "powermode": "Режим питания"
+}
