@@ -9,6 +9,7 @@ Functionality:
 - Change key combinations
 - Change the power modes you need (for example, you can remove the energy-saving mode and put a balanced one in its place)
 - Change the language
+
 Supported languages: English, French, Russian, Spanish
 
 All icons in the project are not protected by copyright.
